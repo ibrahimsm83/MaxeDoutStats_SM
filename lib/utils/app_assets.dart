@@ -1,0 +1,64 @@
+const String imagePath = 'assets/images';
+const String iconPath = 'assets/icons';
+
+class AppAssets {
+  //icons
+  static const String ageicon = '$iconPath/age.png';
+  static const String gymicon = '$iconPath/gym.png';
+  static const String addicon = '$iconPath/add.png';
+  static const String homeicon = '$iconPath/home.png';
+  static const String usericon = '$iconPath/user.png';
+  static const String callicon = '$iconPath/call.png';
+  static const String bellicon = '$iconPath/bell.png';
+  static const String editicon = '$iconPath/edit.png';
+  static const String dateicon = '$iconPath/date.png';
+  static const String timeicon = '$iconPath/time.png';
+  static const String appleicon = '$iconPath/apple.png';
+  static const String logouticon = '$iconPath/logout.png';
+  static const String circleicon = '$iconPath/circle.png';
+  static const String cameraicon = '$iconPath/camera.png';
+  static const String cancelicon = '$iconPath/cancel.png';
+  static const String innerApplogo = '$iconPath/logo.png';
+  static const String weighticon = '$iconPath/weight.png';
+  static const String stripeicon = '$iconPath/stripe.png';
+  static const String paypalicon = '$iconPath/paypal.png';
+  static const String googlewicon = '$iconPath/google.png';
+  static const String lockredicon = '$iconPath/lockred.png';
+  static const String profileicon = '$iconPath/profile.png';
+  static const String checkicon = '$iconPath/checkIcon.png';
+  static const String settingicon = '$iconPath/setting.png';
+  static const String splashlogo = '$iconPath/splashlogo.png';
+  static const String questionicon = '$iconPath/question.png';
+  static const String locationicon = '$iconPath/location.png';
+  static const String emailredicon = '$iconPath/emailred.png';
+  static const String facebookicon = '$iconPath/facebook.png';
+  static const String programsicon = '$iconPath/programs.png';
+  static const String coachingicon = '$iconPath/coaching.png';
+  static const String progressicon = '$iconPath/progress.png';
+  static const String calendaricon = '$iconPath/calendar.png';
+  static const String filetericon = '$iconPath/filtericon.png';
+  static const String timeFasticon = '$iconPath/time-fast.png';
+  static const String arrowbackicon = '$iconPath/arrowback.png';
+  static const String arrowdownicon = '$iconPath/arrow-down.png';
+  static const String emailwhiteicon = '$iconPath/emailwhite.png';
+  static const String buypremiumicon = '$iconPath/buypremium.png';
+  static const String carddetailicon = '$iconPath/carddetail.png';
+  static const String creditcardicon = '$iconPath/creditcard.png';
+  static const String forwardiconicon = '$iconPath/forwardicon.png';
+  static const String stripeinputicon = '$iconPath/stripeinput.png';
+  static const String checkcircleicon = '$iconPath/checkcircle.png';
+  static const String arrowforwardicon = '$iconPath/arrowforward.png';
+  static const String calendarRedicon = '$iconPath/calendarRed.png';
+  static const String selectCircleicon = '$iconPath/selectcircle.png';
+  static const String volumeTrackericon = '$iconPath/volumeTracker.png';
+  static const String termconditionicon = '$iconPath/termcondition.png';
+  static const String privacypolicyicon = '$iconPath/privacypolicy.png';
+  static const String competitionNameicon = '$iconPath/competitionName.png';
+  static const String circleCheckWhiteicon = '$iconPath/checkwhitecircle.png';
+  //Images
+  static const String splashbgImage = "$imagePath/splashimage.jpg";
+  static const String upcomingImage = "$imagePath/upcomingImage.png";
+  static const String sportsmanImage = "$imagePath/sportsmanImage.png";
+  static const String sportsmanimage1 = "$imagePath/sportsmanimage1.png";
+  static const String profileimage = "$imagePath/profileImage.jpg";
+}
